@@ -3,7 +3,7 @@ Takes number of philosophers, time to die, time to eat, time to sleep, and times
 
 usage:
 ./philo 200 600 200 200
-or
+or:
 ./philo 200 600 200 200 7
 
 passing grade 100/100
