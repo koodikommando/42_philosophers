@@ -27,7 +27,7 @@ make
 ### 3. Running the Simulation
 
 ```bash
-./philosophers number_of_philosophers time_to_die time_to_eat time_to_sleep [number_of_times_each_philosopher_must_eat]
+./philo number_of_philosophers time_to_die time_to_eat time_to_sleep [number_of_times_each_philosopher_must_eat]
 ```
 
 - **`number_of_philosophers`**: Number of philosophers and forks.
@@ -39,7 +39,7 @@ make
 ### 4. Example Usage
 
 ```bash
-./philosophers 5 800 200 200
+./philo 5 800 200 200
 ```
 
 This command initiates a simulation with 5 philosophers who need to eat within 800ms to avoid starving, take 200ms to eat, and 200ms to sleep.
