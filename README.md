@@ -4,7 +4,7 @@ The "Philosophers" project from the 42 curriculum is a simulation of the classic
 
 ## **Overview**
 
-In this project, multiple philosophers are seated around a table with a for between each pair. Philosophers alternate between eating, thinking, and sleeping. To eat, a philosopher needs two forks — one on the left and one on the right. This scenario creates a challenge in avoiding deadlock and ensuring that each philosopher gets a chance to eat.
+In this project, multiple philosophers are seated around a table with a fork between each pair. Philosophers alternate between eating, thinking, and sleeping. To eat, a philosopher needs two forks — one on the left and one on the right. This scenario creates a challenge in avoiding deadlock and ensuring that each philosopher gets a chance to eat.
 
 
 ## **Usage**
